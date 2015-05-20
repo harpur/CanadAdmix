@@ -29,3 +29,13 @@
 	7. C - % C lineage
 	8. A - % A lineage
 	9. M - % M lineage
+	
+	
+	
+	
+	
+##Supplemental Files 1 and 2:
+- These files are the collection card (file 1) and sampling instructions (file 2) sent to all beekeepers incldued in our study.
+
+
+
